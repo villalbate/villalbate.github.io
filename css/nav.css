@@ -38,6 +38,7 @@ nav.navpage > ul  {
 }
 
 nav.navpage  li {
+  list-style-type: none;
   list-style: none;
 }
 
