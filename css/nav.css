@@ -20,7 +20,6 @@ nav.breadcrumb li a:after {
     font-size: 1em;
     font-family: helvetica;
     width: 100%;
-
   }
 
 nav.navpage > ul  {
@@ -35,6 +34,7 @@ nav.navpage > ul  {
   position: relative;
   display: inline-table;
   width: 100%;
+  list-style-type: none;
 }
 
 nav.navpage  li {
