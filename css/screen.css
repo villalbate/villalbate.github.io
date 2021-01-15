@@ -713,6 +713,7 @@ body.nav-opened .nav {
 .nav ul {
     padding: 90px 9% 5%;
     list-style: none;
+    /*counter-reset: item;*/
 }
 
 .nav li:before {
@@ -724,8 +725,8 @@ body.nav-opened .nav {
     font-size: 1.2rem;
     vertical-align: bottom;
     color: #B8B8B8;
-    content: counter(item, lower-roman);
-    counter-increment: item;
+    /*content: counter(item, lower-roman);*/
+    /*counter-increment: item;*/
 }
 .nav li {
     margin: 0;
