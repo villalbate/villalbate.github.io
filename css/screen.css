@@ -739,7 +739,7 @@ body.nav-opened .nav {
     padding: 0.6rem 4%;
     overflow: hidden;
     white-space: nowrap;
-    text-overflow: ellipsis;
+   /*text-overflow: ellipsis;*/
 }
 .nav li a:after {
     display: inline-block;
