@@ -849,7 +849,7 @@ body.nav-opened .nav {
 .blog-logo {
     display: block;
     float: left;
-    background: none !important;
+    background: none;
     border: none !important;
     position: sticky;
     top: 0;
