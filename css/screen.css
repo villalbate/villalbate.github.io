@@ -573,7 +573,7 @@ body.nav-opened .site-wrapper {
     text-align: center;
     background: #222 no-repeat center center;
     background-size: cover;
-    /*overflow: hidden;*/
+    overflow: hidden;
 }
 
 .main-header .inner {
@@ -854,15 +854,13 @@ body.nav-opened .nav {
 }
 
 .blog-logo img {
-    /*-webkit-box-sizing: border-box;*/
-    /*-moz-box-sizing: border-box;*/
-    /*box-sizing: border-box;*/
-    /*display: block;*/
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    display: block;
     height: 70px;
     padding: 1px 0 5px 0;
     width: 70px;
-    position: sticky;
-    top: 0;
 }
 
 .menu-button {
@@ -871,8 +869,6 @@ body.nav-opened .nav {
     box-sizing: border-box;
     display: inline-block;
     float: right;
-    position: sticky;
-    top: 0;
     height: 38px;
     padding: 0 15px;
     border: #bfc8cd 1px solid;
