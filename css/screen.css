@@ -854,16 +854,16 @@ body.nav-opened .nav {
     background: none !important;
     border: none !important;
 }
-/*
+
 .blog-logo img {
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
+    /*-webkit-box-sizing: border-box;*/
+   /*-moz-box-sizing: border-box;*/
     box-sizing: border-box;
     display: block;
     height: 70px;
     padding: 1px 0 5px 0;
     width: 70;
-}*/
+}
 
 .menu-button {
     -webkit-box-sizing: border-box;
