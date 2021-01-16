@@ -849,20 +849,20 @@ body.nav-opened .nav {
 .blog-logo {
     display: block;
     float: left;
-    position: sticky;
-    top: 0;
     background: none !important;
     border: none !important;
 }
 
 .blog-logo img {
     /*-webkit-box-sizing: border-box;*/
-   /*-moz-box-sizing: border-box;*/
+    /*-moz-box-sizing: border-box;*/
     /*box-sizing: border-box;*/
     /*display: block;*/
     height: 70px;
     padding: 1px 0 5px 0;
     width: 70px;
+    position: sticky;
+    top: 0;
 }
 
 .menu-button {
