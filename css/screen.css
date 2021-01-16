@@ -849,10 +849,10 @@ body.nav-opened .nav {
 .blog-logo {
     display: block;
     float: left;
-    background: none !important;
-    border: none !important;
     position: sticky;
     top: 0;
+    background: none !important;
+    border: none !important;
 }
 
 .blog-logo img {
@@ -871,6 +871,8 @@ body.nav-opened .nav {
     box-sizing: border-box;
     display: inline-block;
     float: right;
+    position: sticky;
+    top: 0;
     height: 38px;
     padding: 0 15px;
     border: #bfc8cd 1px solid;
@@ -884,8 +886,6 @@ body.nav-opened .nav {
     border-radius: 3px;
     background: rgba(0,0,0,0.1);
     transition: all 0.5s ease;
-    position: sticky;
-    top: 0;
 }
 .menu-button:focus {
     outline: 0;
