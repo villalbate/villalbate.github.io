@@ -852,6 +852,7 @@ body.nav-opened .nav {
     background: none !important;
     border: none !important;
     position: sticky;
+    top: 0;
 }
 
 .blog-logo img {
@@ -884,6 +885,7 @@ body.nav-opened .nav {
     background: rgba(0,0,0,0.1);
     transition: all 0.5s ease;
     position: sticky;
+    top: 0;
 }
 .menu-button:focus {
     outline: 0;
