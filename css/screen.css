@@ -858,11 +858,11 @@ body.nav-opened .nav {
 .blog-logo img {
     /*-webkit-box-sizing: border-box;*/
    /*-moz-box-sizing: border-box;*/
-    box-sizing: border-box;
-    display: block;
+    /*box-sizing: border-box;*/
+    /*display: block;*/
     height: 70px;
     padding: 1px 0 5px 0;
-    width: 70;
+    width: 70px;
 }
 
 .menu-button {
